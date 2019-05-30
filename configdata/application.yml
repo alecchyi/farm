@@ -22,7 +22,7 @@ words: this
 
 ---
 spring:
-  profiles: adjective
+  profiles: farm-adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
