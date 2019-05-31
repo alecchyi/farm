@@ -28,5 +28,5 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: noun
-words: apple
+words: book
   
