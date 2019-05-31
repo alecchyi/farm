@@ -1,9 +1,9 @@
 ---
 # Items that apply to ALL profiles:
-spring:
-  profiles: default
-server:
-  port: 8010
+# spring:
+#   profiles: default
+# server:
+#   port: 8010
 eureka:
   client:
     serviceUrl:
