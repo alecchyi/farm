@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ibm.cio.be.iphone.IOCCMobile</string>
+				<string>com.ibm.cio.be.vct.iphone</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
